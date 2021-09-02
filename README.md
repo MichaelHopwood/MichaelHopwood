@@ -26,7 +26,7 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <li>March 2021. Won 2nd place in 2021 OUC Data Science Competition focused on <a href="https://hopml.readthedocs.io/en/latest/projects.html#electric-vehicle-detection" target="_blank"> Electric Vehicle Detection</a></li>
 <li>December 2020. <a href="https://ui.adsabs.harvard.edu/abs/2020AGUFMIN0140003H/abstract" target="_blank"> Presented at AGU</a> a methodology using data fusion techniques (both NLP and timeseries) to study the effect of extreme weather events on photovoltaic systems </li>
 <li>September 2020. Journal <a href="https://ieeexplore.ieee.org/iel7/6287639/8948470/09186596.pdf" target="_blank">paper</a> published studying the use of neural networks on failure classification in PV systems</li>
-<li>August 2020. Began company which designed, built, and deployed an Bayesian ML-informed algotrading agent, using the funds of an angel investor, along with two other software developers.</li>
+<li>August 2020. Began company which designed, built, and deployed a Bayesian ML-informed algotrading agent, using the funds of an angel investor, along with two other software developers.</li>
 <li>August 2020. Started my PhD at UCF!</li>
 <li>June 2020. Presented at IEEE PVSC 47 (and <a href="https://www.linkedin.com/posts/michael-hopwood-43ba97123_pvsc-activity-6682102621374877696-ZgIG" target="_blank">won best student paper</a> )about the use of principal component analysis and a random forest (RF) on current-voltage curves <a href="https://ieeexplore.ieee.org/abstract/document/9300601/" target="_blank">paper</a></li>
 <li>May 2020. Began R&D internship at Sandia National Labs!</li>
