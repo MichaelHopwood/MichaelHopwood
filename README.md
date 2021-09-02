@@ -10,7 +10,7 @@
   <img src="fsec_logo.jpg"  width="120"/>
 </p>
 
-I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in data science at the **University of Central Florida** and graduate R&D intern at **Sandia National Laboratories**. I'm interested in the connections of probabilistic machine learning and physics.
+I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in data science at the **University of Central Florida** and graduate R&D intern at **Sandia National Laboratories**. I'm interested in graph neural networks and probabilistic machine learning especially in their applications to physics.
 
 
 <details>
