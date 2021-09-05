@@ -19,7 +19,7 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
-<li>August 2021. Invited to speak at network science conference, <a href="http://icufn.org/" target="_blank"> ICUFN 2021 </a> about work which validated active learning practices with simulations (an extension from the previous journal paper). Unfortunately, my masters comprehensive exam was at the same time as the presentation, so my second author presented.</li>
+<li>August 2021. Invited to speak at network science conference, <a href="http://icufn.org/" target="_blank"> ICUFN 2021 </a> about work which validated active learning practices with simulations (an extension from the previous journal paper).</li>
 <li>May 2021. Released <a href="https://github.com/sandialabs/pvOps" target="_blank"> open-source python package </a> tackling machine learning & simulation applications in photovoltaic systems.
 <li>April 2021. Journal <a href="https://www.mdpi.com/2078-2489/12/4/170" target="_blank"> paper </a> published which explores a phenomenon that ties network topology to active learning in graph neural networks</li>
 <li>April 2021. Participated in <a href="https://stanford-open-datathon.devpost.com/" target="_blank"> stanford datathon</a> and submitted report about applications of generalized low rank models to <a href="https://github.com/MichaelHopwood/UCFParkingAI" target="_blank"> garage parking capacity</a></li>
