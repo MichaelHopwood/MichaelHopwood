@@ -19,6 +19,7 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+<li>September 2021. ICUFN 2021 <a href="https://ieeexplore.ieee.org/document/9528662" target="_blank"> proceedings </a> published</li>
 <li>August 2021. Invited to speak at network science conference, <a href="http://icufn.org/" target="_blank"> ICUFN 2021 </a> about work which validated active learning practices with simulations (an extension from the previous journal paper).</li>
 <li>May 2021. Released <a href="https://github.com/sandialabs/pvOps" target="_blank"> open-source python package </a> tackling machine learning & simulation applications in photovoltaic systems.
 <li>April 2021. Journal <a href="https://www.mdpi.com/2078-2489/12/4/170" target="_blank"> paper </a> published which explores a phenomenon that ties network topology to active learning in graph neural networks</li>
