@@ -19,6 +19,7 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+<li>October 2021 (Coming soon). <a href="https://www.abstractsonline.com/pp8/#!/10390/presentation/6852" target="_blank"> Oral presentation </a> at INFORMS Annual Meeting 2021 </li>
 <li>September 2021. ICUFN 2021 <a href="https://ieeexplore.ieee.org/document/9528662" target="_blank"> proceedings </a> published</li>
 <li>August 2021. Invited to speak at network science conference, <a href="http://icufn.org/" target="_blank"> ICUFN 2021 </a> about work which validated active learning practices with simulations (an extension from the previous journal paper).</li>
 <li>May 2021. Released <a href="https://github.com/sandialabs/pvOps" target="_blank"> open-source python package </a> tackling machine learning & simulation applications in photovoltaic systems.
