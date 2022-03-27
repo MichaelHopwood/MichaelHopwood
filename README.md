@@ -1,6 +1,12 @@
 ### Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p float="center">
+  <img src="amazon_logo.png"  width="80"/>
+  &emsp;
+  <img src="microsoft_logo.png"  width="80"/>
+  &emsp;
+  <img src="tesla_logo.png"  width="80"/>
+  &emsp;
   <img src="snl_logo.png"  width="80"/>
   &emsp;
   <img src="ucf_logo.png"  width="80"/>
@@ -10,7 +16,7 @@
   <img src="fsec_logo.jpg"  width="120"/>
 </p>
 
-I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in data science at the **University of Central Florida** and graduate R&D intern at **Sandia National Laboratories**. I'm interested in graph neural networks and probabilistic machine learning especially in their applications to physics.
+I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in data science at the **University of Central Florida**. My work experience spans both applied and theoretical data science. In particular, I'm interested in graph neural networks and probabilistic machine learning especially in their applications to physics, but I usually find most things interesting.
 
 
 <details>
@@ -19,6 +25,10 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+<li>August 2022. Began internship on Tesla's risk analysis team. </li>
+<li>May 2022. Began internship on Microsoft's project turing. </li>
+<li>January 2022. Began internship on Tesla's charging data modeling team. </li>
+<li>January 2022. Passed master's comprehensive exam in preparation for PhD qualifying exam in future. </li>
 <li>October 2021. <a href="https://www.abstractsonline.com/pp8/#!/10390/presentation/6852" target="_blank"> Oral presentation </a> at INFORMS Annual Meeting 2021 regarding a failure detection technique using gaussian-emission hidden markov models </li>
 <li>September 2021. ICUFN 2021 <a href="https://ieeexplore.ieee.org/document/9528662" target="_blank"> proceedings </a> published</li>
 <li>August 2021. Invited to speak at network science conference, <a href="http://icufn.org/" target="_blank"> ICUFN 2021 </a> about work which validated active learning practices with simulations (an extension from the previous journal paper).</li>
