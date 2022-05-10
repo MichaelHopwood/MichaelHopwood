@@ -25,8 +25,8 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
-<li>August 2022. Began internship on Tesla's risk analysis team. </li>
-<li>May 2022. Began internship on Microsoft's project turing. </li>
+<li>August 2022. Began internship on Amazon's risk analysis team. </li>
+<li>May 2022. Began internship on Microsoft's bing search optimization team. </li>
 <li>January 2022. Began internship on Tesla's charging data modeling team. </li>
 <li>January 2022. Passed master's comprehensive exam in preparation for PhD qualifying exam in future. </li>
 <li>October 2021. <a href="https://www.abstractsonline.com/pp8/#!/10390/presentation/6852" target="_blank"> Oral presentation </a> at INFORMS Annual Meeting 2021 regarding a failure detection technique using gaussian-emission hidden markov models </li>
