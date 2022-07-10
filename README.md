@@ -1,4 +1,4 @@
-### Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Welcome!
 
 <p float="center">
   <img src="amazon_logo.png"  width="80"/>
@@ -12,8 +12,6 @@
   <img src="ucf_logo.png"  width="80"/>
   &emsp;
   <img src="sapien_logo.png"  width="80"/>
-  &emsp;
-  <img src="fsec_logo.jpg"  width="120"/>
 </p>
 
 I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in data science at the **University of Central Florida**. My work experience spans both applied and theoretical data science. In particular, I'm interested in graph neural networks and probabilistic machine learning especially in their applications to physics, but I usually find most things interesting.
