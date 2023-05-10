@@ -14,8 +14,7 @@
   <img src="sapien_logo.png"  width="80"/>
 </p>
 
-I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in data science at the **University of Central Florida**. My work experience spans both applied and theoretical data science. In particular, I'm interested in graph neural networks and probabilistic machine learning especially in their applications to physics, but I usually find most things interesting.
-
+I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), data scientist at Microsoft. When I was pursuing my PhD, I was focused on graph neural networks and probabilistic machine learning especially in their applications to physics. Since then, I have dropped out to pursue work in industry. For a list of my publications see [my GoogleScholar](https://scholar.google.com/citations?user=IpAk8_gAAAAJ&hl=en&authuser=1) or you can review my [CV](https://github.com/MichaelHopwood/HopML/blob/main/docs/_static/MICHAEL_HOPWOOD_CV.PDF).
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
@@ -23,6 +22,7 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), PhD student in d
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
+<li></li>
 <li>August 2022. Began internship on Amazon's risk analysis team working on graph neural networks applied science. </li>
 <li>May 2022. Began internship on Microsoft's bing search optimization team working on optimal loss functions and efficient productionization. </li>
 <li>January 2022. Began internship on Tesla's charging data modeling team working on network optimization and timeseries modeling. </li>
