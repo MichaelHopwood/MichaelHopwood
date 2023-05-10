@@ -22,7 +22,8 @@ I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), data scientist a
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
-<li></li>
+<li>July 2023. Started as data scientist at Microsoft. </li>
+<li>May 2023. Dropped out of PhD, graduating with Master's degree in Data Science and Statistics</li>
 <li>August 2022. Began internship on Amazon's risk analysis team working on graph neural networks applied science. </li>
 <li>May 2022. Began internship on Microsoft's bing search optimization team working on optimal loss functions and efficient productionization. </li>
 <li>January 2022. Began internship on Tesla's charging data modeling team working on network optimization and timeseries modeling. </li>
