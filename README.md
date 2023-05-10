@@ -14,7 +14,7 @@
   <img src="sapien_logo.png"  width="80"/>
 </p>
 
-I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), data scientist at Microsoft. When I was pursuing my PhD, I was focused on graph neural networks and probabilistic machine learning especially in their applications to physics. Since then, I have dropped out to pursue work in industry. For a list of my publications see [my GoogleScholar](https://scholar.google.com/citations?user=IpAk8_gAAAAJ&hl=en&authuser=1) or you can review my [CV](https://github.com/MichaelHopwood/HopML/blob/main/docs/_static/MICHAEL_HOPWOOD_CV.PDF).
+I'm [Michael Hopwood](https://hopml.readthedocs.io/en/latest/), data scientist at Microsoft. When I was pursuing my PhD, I was focused on graph neural networks and probabilistic machine learning especially in their applications to physics. Since then, I have dropped out to pursue work in industry. For a list of my publications see my [GoogleScholar](https://scholar.google.com/citations?user=IpAk8_gAAAAJ&hl=en&authuser=1) or you can review my [CV](https://github.com/MichaelHopwood/HopML/blob/main/docs/_static/MICHAEL_HOPWOOD_CV.PDF).
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
